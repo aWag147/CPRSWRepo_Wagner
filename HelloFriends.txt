@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hallo zurck von Raab! 
+=======
+Hallo Zurck von Daniel 
+>>>>>>> 47f840a175af38f701299e4275e5acc5cd1b1122
